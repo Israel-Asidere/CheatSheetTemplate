@@ -1,0 +1,26 @@
+td,
+th {
+    border: 2px solid blanchedalmond;
+    text-align: right;
+    padding: 0.5em;
+}
+
+thead {
+    background-color: antiquewhite;
+}
+
+table {
+    width: 80%;
+    font-family: arial, sans-serif;
+    margin: 0 auto;
+}
+
+tr:nth-child(even) {
+    background-color: rgb(252, 208, 230);
+}
+
+code {
+    background-color: rgb(134, 138, 127);
+    padding: .25em;
+    border-radius: 5px;
+}
